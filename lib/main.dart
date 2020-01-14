@@ -19,7 +19,7 @@ class sliderScaffold extends StatefulWidget{
 
 class sliderScaffoldstate extends State<sliderScaffold>{
 
-  String feedbacktext = 'Cound be better';
+  String feedbacktext = 'Cound be better one';
   var slidervalue = 0.0;
 
   IconData myFeedbackicon = FontAwesomeIcons.sadTear;
